@@ -3,6 +3,7 @@
 #Uniqueness:
 -The raw dataset pharmeasy_orders_raw.csv contains 59 duplicate records.
 -These duplicate records are identified during data cleaning.
+
 #Consistency:
 -Some regions in raw dataset have inconsistent formatting.
  -Like examples include:
@@ -13,6 +14,7 @@
 'BENGALURU'
 which are identified during data cleaning.
 -These are consistency issues which are represented in different formats.
+
 #Completeness:
 -The raw dataset contains 48 missing category values in category column.
 -The raw dataset contains 94 missing values in profit_inr column which are identified during data cleaning.
