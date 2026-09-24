@@ -1,8 +1,8 @@
 ##Data quality report
+
 #Uniqueness:
 -The raw dataset pharmeasy_orders_raw.csv contains 59 duplicate records.
 -These duplicate records are identified during data cleaning.
-
 #Consistency:
 -Some regions in raw dataset have inconsistent formatting.
  -Like examples include:
