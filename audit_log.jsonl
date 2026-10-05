@@ -1,0 +1,3 @@
+{"timestamp": "2026-10-05T09:18:08.939619+00:00", "run_id": "run_20261005_091808_939619", "region": "Guntur", "decision": "approve", "reviewer_note": "Approved for executive report distribution."}
+{"timestamp": "2026-10-05T09:18:08.939803+00:00", "run_id": "run_20261005_091808_939803", "region": "Guntur", "decision": "edit", "reviewer_note": "Needs metric clarification."}
+{"timestamp": "2026-10-05T09:18:08.939886+00:00", "run_id": "run_20261005_091808_939886", "region": "Guntur", "decision": "reject", "reviewer_note": "Rejected due to unverified external assumptions."}
